@@ -1,6 +1,6 @@
 # WHOOP Recovery Analysis — Do Lifestyle Habits Actually Work?
 
-**By Lalithya Alapati** | [LinkedIn](https://linkedin.com/in/lalithyaalapati3108) | lalithyaalapati@gmail.com
+**By Lalithya Alapati** | [LinkedIn](https://linkedin.com/in/lalithyaalapati3108) |
 
 ---
 
