@@ -165,12 +165,5 @@ Headers: Authorization: Bearer {access_token}
 
 The Python pipeline in this repo connects directly to this schema. Swapping the Kaggle CSV for live API data requires changing one line.
 
----
 
-## About This Project
 
-Built in one evening while waiting to hear back about the BA II AI Product role at WHOOP.
-
-I tried to register as a WHOOP developer but realized API access requires a device. So I used publicly available data structured identically to WHOOP's API response — and built the analysis I would have built with real data.
-
-*Data used under CC BY 4.0 license. All findings are honest — including the ones that show the experiment was inconclusive.*
