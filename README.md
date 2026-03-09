@@ -90,7 +90,7 @@ Each experiment ran for only 8 days. A proper power analysis suggests **64 days 
 ## Amplitude Dashboards
 
 ### Chart 1 — Daily Recovery Score by Experiment Period
-![Recovery Score Chart](charts/daily_recovery_score.png)
+![Recovery Score Chart](Charts/daily_recovery_score.png)
 
 *Four experiment periods segmented. Baseline (blue) shows highest data density. All periods show similar average recovery with high daily variation.*
 
