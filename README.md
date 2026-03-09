@@ -95,12 +95,12 @@ Each experiment ran for only 8 days. A proper power analysis suggests **64 days 
 *Four experiment periods segmented. Baseline (blue) shows highest data density. All periods show similar average recovery with high daily variation.*
 
 ### Chart 2 — Daily HRV Trend by Experiment Period
-![HRV Trend Chart](charts/daily_hrv_trend.png)
+![HRV Trend Chart](Charts/deep_sleep_paradox.png)
 
 *HRV is the strongest predictor of recovery score. Milk before bed period shows marginally higher HRV (62.4ms) vs Baseline (60.2ms) — within normal daily variation.*
 
 ### Chart 3 — Deep Sleep % by Experiment Period — The Paradox
-![Deep Sleep Chart](charts/deep_sleep_paradox.png)
+![Deep Sleep Chart](Charts/deep_sleep_paradox.png)
 
 *Milk before bed has highest recovery but lowest deep sleep. Challenges the assumption that more deep sleep always means better recovery.*
 
